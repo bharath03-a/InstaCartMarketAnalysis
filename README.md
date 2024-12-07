@@ -1,8 +1,8 @@
 # Instacart Market Basket Analysis
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" height="60"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Instacart_logo.svg" alt="Instacart" height="60">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" height="80"> 
+  <img src="https://logos-world.net/wp-content/uploads/2022/02/Instacart-Logo.png" alt="Instacart" height="80">
 </p>
 
 ## Overview
