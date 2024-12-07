@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" height="80"> 
-  <img src="https://logos-world.net/wp-content/uploads/2022/02/Instacart-Logo.png" alt="Instacart" height="80">
+  <img src="https://d2kq0urxkarztv.cloudfront.net/5fad7c666514100070f6c76e/4102165/image-d1ec0f8e-dc85-46f0-b283-c33fc38d5e2a.png" alt="Instacart" height="80">
 </p>
 
 ## Overview
